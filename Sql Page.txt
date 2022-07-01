@@ -1,0 +1,26 @@
+select * from customer;
+
+
+
+CUSTOMERID	      ADHAR	       EMAIL	      NAME	PASSWORD	PHONE	      SIGNIN
+MEDI0987654321	1234567890	arun@gmail.com	Arun	1234	     0987654321	Temporary
+
+
+
+
+
+select * from employee;
+
+
+EMPLOYEEID	       EMAIL	        EMPLOYEETYPE	NAME	PASSWORD	PHONE
+MEDI8123340726	achut@gmail.com	      Admin	     Achut	1234	    8123340726
+MEDI+918123340726	achuthublikar@gmail.com	Admin	     achut	1234	    8123340726
+
+
+
+select * from stock;
+
+ID	MEDICINE	      NAME	     PRICE
+01	General	      Dolo650	20
+02	Prescription	Calpal	50
+03	Prescription	Febrex Plus	100
